@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.myrecyclviewdemo.weidget.AsHomepageHeaderView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ashv_homepager"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="30dp">
+
+</com.example.myrecyclviewdemo.weidget.AsHomepageHeaderView>
