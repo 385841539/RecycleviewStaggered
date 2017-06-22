@@ -42,7 +42,7 @@ dependencies {
 
     compile 'com.jakewharton:butterknife:7.0.1'
     // network
-    compile 'com.lzy.net:okgo:+'
+    compile 'com.lzy.net:okgo:2.1.4'
     compile 'com.zhy:okhttputils:2.6.2'
 
 
